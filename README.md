@@ -7,5 +7,6 @@ The system is based on the interaction between two types of users: students and 
 Java
 
 # How to use
-Run with:
+Run with: javac Principal.java
+java Principal
 
